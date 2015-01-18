@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: 主页
+  url: /home/
+
+- title: 程序猿
+  url: /tech/
+
+- title: 杂文随笔
+  url: /essay/
+
+- title: PRE
+  url: /presentation/
+
+- title: 关于
+  url: /about/
+
