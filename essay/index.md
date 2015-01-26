@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-excerpt: "An archive of blog posts sorted by date."
+title: 写点什么呢？
+excerpt: "An archive of essay posts sorted by date."
 ---
 
 <ul class="post-list">
