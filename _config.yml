@@ -5,7 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo:
 search: true
-host: http://conghui.github.io
+host: 0.0.0.0
 
 
 # Jekyll configuration
