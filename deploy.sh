@@ -7,4 +7,4 @@ docker run -it \
            -d \
            -p 80:4000 \
            conghui/jekyll:v1 \
-           jekyll serve -H 0.0.0.0
+           jekyll serve -w -H 0.0.0.0
