@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Conghui is walking, working
 locale: en_US
-description: Describe your website here.
+description: This website aims to keep the innovations, events and thoughs recorded for sharing and reviewing
 logo:
 search: true
 host: 0.0.0.0
@@ -33,12 +33,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: 何聪辉
-  avatar: bio-photo.jpg
+  avatar: profile.jpg
   email: heconghui@email.com
   disqus-shortname: 'conghui'
   twitter: #username
   facebook: #username
-  github: #username
+  github: conghui
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
