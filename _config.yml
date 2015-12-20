@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Conghui is walking, working
+title: Conghui is thinking & working
 locale: en_US
-description: This website aims to keep the innovations, events and thoughs recorded for sharing and reviewing
-logo:
+description: Keep the innovations, events and thoughs for sharing and reviewing
+logo: profile.jpg
 search: true
 host: 0.0.0.0
 
