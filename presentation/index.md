@@ -3,6 +3,44 @@ layout: page
 title: Presentations & Lectures
 ---
 
+- 何聪辉， 2015年10月，**SEG 2015与会分享**，
+  HPGC小组会，清华大学.
+  ([slides](http://pan.baidu.com/s/1hrswi8G))
+- Conghui He, October 2015, **Poster: A GPU-based parallel beam migration design**,
+  SEG Technical Program Expanded Abstracts 2015, New Orleans.
+  ([slides](http://pan.baidu.com/s/1mh3dv3E))
+- Conghui He, October 2015, **A GPU-based parallel beam migration design**,
+  SEG Technical Program Expanded Abstracts 2015, New Orleans.
+  ([slides](http://pan.baidu.com/s/1o6Rf8EI))
+- Conghui He, October 2015, **Ensemble full wave inversion with source encoding**,
+  China Geoscience Union, 2015, Beijing.
+  ([slides](http://pan.baidu.com/s/1bovUhSN))
+- Conghui He, July 2015, **Survey: FPGA in financial computing**.
+  ([slides](http://pan.baidu.com/s/1i41hAfz))
+- Conghui He, June 2015, **Conference report of EAGE 2015 in Madrid**,
+  HPGC group meeting, Tsinghua University.
+  ([slides](http://pan.baidu.com/s/1mh4zqDa))
+- Conghui He, June 2015, **Poster: Ensemble full wave inversion with source encoding**,
+  77th EAGE Conference and Exhibition 2015, Madrid, Spain.
+  ([slides](http://pan.baidu.com/s/1OgofO))
+- 何聪辉，2015年4月, **基于异构高性能平台的集合波形反演方法研究**，
+  清华大学计算机系.
+  ([slides](http://pan.baidu.com/s/1jH3h0xg))
+- Conghui He, March 2015, **Recently introduction to Conghui He**,
+  HPGC group meeting, Tsinghua University.
+  ([slides](http://pan.baidu.com/s/1mh3dvwW))
+- Yushu Chen, Conghui He, January 2015, **Ensemble full wave inversion with source encoding**,
+  Tsinghua and Statiol's Workshop in Tsinghua University, Beijing.
+  ([slides](http://pan.baidu.com/s/1mgW9t4O))
+- Lin Gan, Junary 2015, **Scaling the RTM performance through reconfigurable FPGAs**,
+  Tsinghua and Statiol's Workshop in Tsinghua University, Beijing.
+  ([slides](http://pan.baidu.com/s/1skhU0qD))
+- Conghui He, Junuary 2015, **Beam migration project final report**,
+  Tsinghua and Statiol's Workshop in Tsinghua University, Beijing.
+  ([slides](http://pan.baidu.com/s/1gdNWcDl))
+- Conghui He, January 2015, **Introduction to EnFWI**,
+  Annual group meeting, Tsinghua University,
+  ([slides](http://pan.baidu.com/s/1qX4WZzm))
 - Conghui He, November 2014, **Sharcl, more than a smart campus**,
   A brief introduction in Tsinghua University library.
   ([slides](http://pan.baidu.com/s/1nukevSt))
