@@ -33,7 +33,7 @@ update. In the first `n` cycle, it is for initialization and update operation
 afterwards. We implement this idea by using the `initEnable` signal as in the
 following code snippets.
 
-{% highlight java %}
+```java
   public void write(DFEVar address, DFEVar data, DFEVar enable) {
     /**
      * for initialization
@@ -46,6 +46,6 @@ following code snippets.
     DFEVar finalEnable = initEnable ? initEnable : enable;
     super.write(finalAddr, finalData, finalEnable);
   }
-{% endhighlight %}
+```
 
 You can find the code [here](https://github.com/conghui/maxlib/blob/master/Ram.java).
